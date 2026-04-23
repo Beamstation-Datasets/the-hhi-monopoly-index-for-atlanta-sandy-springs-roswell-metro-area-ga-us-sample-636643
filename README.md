@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Atlanta-Sandy Springs-Roswell Metro Area, GA, US
 
-> Free BeamStation sample export with 35 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `636643` |
 | Location | Atlanta-Sandy Springs-Roswell, GA |
 | Category | Restaurants |
-| Full dataset size | 355 records |
-| Free sample size | 35 records (9.86%) |
-| Last export | 2026-04-15T06:12:15.023151+00:00 |
+| Full dataset size | 266 records |
+| Free sample size | 26 records (9.77%) |
+| Last export | 2026-04-22T12:12:15.762405+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-atlanta-sandy-springs-roswell-metro-area-ga-us-sample-636643/releases/download/sample-latest/beamstation_636643_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
