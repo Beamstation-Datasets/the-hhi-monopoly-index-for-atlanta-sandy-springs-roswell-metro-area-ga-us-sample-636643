@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3a06e272-48e9-4a1e-a643-b54286483c5e",
+  "export_job_id": "9d80225e-0c1b-4519-b32b-e8ce9ab03dff",
   "id_short": 636643,
-  "published_at": "2026-04-18T19:35:34Z",
+  "published_at": "2026-04-23T07:21:13Z",
   "repo_name": "the-hhi-monopoly-index-for-atlanta-sandy-springs-roswell-metro-area-ga-us-sample-636643",
   "sample_asset_name": "beamstation_636643_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/636643/beamstation_636643_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
-  "sample_records": 35,
-  "sample_sha256": "b9512198912acd17f49db1988e76dbd64ef180c0da88e7201deee5cc9ca857f1",
-  "sample_size_bytes": 145746,
-  "total_records": 355
+  "sample_records": 26,
+  "sample_sha256": "fcd90e37a97030f6d357207686bcedb8a7513dd515f121f103ef515db90e09a9",
+  "sample_size_bytes": 112889,
+  "total_records": 266
 }
